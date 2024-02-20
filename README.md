@@ -1,1 +1,1 @@
-# GENERATIVE-ADVERSARIAL-NETWORKS-FOR-THE-GENERATION-OF-REALISTIC-MOBILITY-TRACES-IN-URBAN-SCENARIOS
+# Generative-Adversarial-Networks-For-The-Generation-Of-Realistic-Mobility-Traces-In-Urban-Scenarios
